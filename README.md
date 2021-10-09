@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CI/CD, Kubernetes, Docker, Flutter and more**
 
-- 📫 How to reach me **weeravit.s@gmail.com**
+- 📫 How to reach me **weeravit.s@gmail.com**  ![image](https://user-images.githubusercontent.com/62900543/136668213-66727221-24b4-4328-aecb-c879c0acc96f.png)
 
 - ⚡ Fun fact **luv watching movie.**
 
@@ -17,6 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnrecording&show_icons=true&locale=en" alt="dnrecording" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnrecording&" alt="dnrecording" /></p>
 
-![image](https://user-images.githubusercontent.com/62900543/136668213-66727221-24b4-4328-aecb-c879c0acc96f.png)
