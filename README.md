@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DRAGON</h1>
 <h3 align="center">DevOps is my goal.</h3>
 
-- 🌱 I’m currently learning **CI/CD, Kubernetes, Docker, Flutter and more**![image](https://user-images.githubusercontent.com/62900543/136668213-66727221-24b4-4328-aecb-c879c0acc96f.png)
+- 🌱 I’m currently learning **CI/CD, Kubernetes, Docker, Flutter and more**
 - 📫 How to reach me **weeravit.s@gmail.com**  
 - ⚡ Fun fact **luv watching movie.**
 
@@ -12,7 +12,6 @@
 </p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnrecording&show_icons=true&locale=en&layout=compact" alt="dnrecording" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnrecording&show_icons=true&locale=en" alt="dnrecording" /></p>
 
 
