@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm DRAGON</h1>
 <h3 align="center">DevOps is my goal.</h3>
 
-- 🌱 I’m currently learning **CI/CD, Kubernetes, Docker, Flutter and more**
-
+- 🌱 I’m currently learning **CI/CD, Kubernetes, Docker, Flutter and more**![image](https://user-images.githubusercontent.com/62900543/136668213-66727221-24b4-4328-aecb-c879c0acc96f.png)
 - 📫 How to reach me **weeravit.s@gmail.com**  
 - ⚡ Fun fact **luv watching movie.**
 
-<h3 align="left">Connect with me:</h3>  ![image](https://user-images.githubusercontent.com/62900543/136668213-66727221-24b4-4328-aecb-c879c0acc96f.png)
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://fb.com/weeravit srisuntikanaporn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="weeravit srisuntikanaporn" height="30" width="40" /></a>
 <a href="https://instagram.com/drg.wrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drg.wrv" height="30" width="40" /></a>
