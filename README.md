@@ -2,7 +2,7 @@
 <h3 align="left">DevOps is my goal.</h3>
 
 - 🔭 I’m currently studying at **KMITL as Computer Engineering**
-- 🌱 I’m currently learning **CI/CD, Kubernetes, Docker, Flutter and more**
+- 🌱 I’m currently learning **CI/CD Tools, Kubernetes, Docker, Go and more**
 - 📫 How to reach me **weeravit.s@gmail.com**  
 - ⚡ Fun fact **im luv watching movie.**
 
